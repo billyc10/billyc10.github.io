@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/hash-table-visualiser/static/css/main.fc69f310.css",
+    "main.js": "/hash-table-visualiser/static/js/main.d823e319.js",
+    "index.html": "/hash-table-visualiser/index.html",
+    "main.fc69f310.css.map": "/hash-table-visualiser/static/css/main.fc69f310.css.map",
+    "main.d823e319.js.map": "/hash-table-visualiser/static/js/main.d823e319.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fc69f310.css",
+    "static/js/main.d823e319.js"
+  ]
+}
